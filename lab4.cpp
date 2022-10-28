@@ -7,9 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
     std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-
-    std::cout << "Hello World!\n";
+    
 }
 
 // Per eseguire il programma: CTRL+F5 oppure Debug > Avvia senza eseguire debug
